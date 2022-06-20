@@ -1,4 +1,6 @@
-### Hi there 👋
+### $whoami 🤔
+
+👋 I am Jihen, a first year 💻 computer science masters student at ENSI from 🇹🇳 Tunisia. I love ⚒️ building fun and usefull things using 👨‍💻 new technologies.
 
 <!--
 **7ur813z/7ur813z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
